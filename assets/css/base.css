@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: calc(100vh - 70px);
+  background: #aaa;
+}
+
+.footer {
+  height: 50px;
+}
